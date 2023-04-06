@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Rubik Pixel;
+    src: url("../62933a2951ef01f4eafd9bdf4d3cd2f0/980d14c0c85495b48b9a9134658e6121/Rubik_Pixels/RubikPixels-Regular.ttf");
+}
+
+.hidden {
+    font-family: wingdings;
+    color: white;
+    bottom: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+body {
+    margin: 10px;
+    font-family: Rubik Pixel;
+    color: rgba(255, 255, 255, 0.125);
+    background-image: url("../62933a2951ef01f4eafd9bdf4d3cd2f0/9ed98e5c3e9685aa3de82c99009a2ed3/a81259cef8e959c624df1d456e5d3297.gif");
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

@@ -21,7 +21,7 @@ body {
     font-family: Rubik;
     font-size: 48px;
     position: fixed;
-    color: rgb(172, 172, 172);
+    color: rgb(175, 175, 175);
     /*text-shadow: .5px -.5px 0px rgba(255, 255, 255, 1), -.5px .5px 0px rgba(255, 255, 255, 1), .5px .5px 0px rgba(255, 255, 255, 1), -.5px -.5px 0px rgba(255, 255, 255, 1);*/
     /*text-shadow: .5px -.5px 0px rgba(0, 0, 0, 1), -.5px .5px 0px rgba(0, 0, 0, 1), .5px .5px 0px rgba(0, 0, 0, 1), -.5px -.5px 0px rgba(0, 0, 0, 1);*/
     mix-blend-mode:overlay;

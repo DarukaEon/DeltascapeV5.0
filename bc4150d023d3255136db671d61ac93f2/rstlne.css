@@ -8,14 +8,6 @@
     src: url("../62933a2951ef01f4eafd9bdf4d3cd2f0/980d14c0c85495b48b9a9134658e6121/Rubik_Pixels/RubikPixels-Regular.ttf");
 }
 
-.hidden {
-    font-family: wingdings;
-    color: rgb(255, 255, 255);
-    bottom: 0px;
-    right: 0px;
-    position: fixed;
-}
-
 body {
     margin: 10px;
     font-family: Rubik;
